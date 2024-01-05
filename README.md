@@ -40,3 +40,6 @@ See the section about [deployment](https://rohit3113.github.io/quiz-app/) for mo
 
 This section has moved here: [https://Rohit3113.github.io/quiz-app/docs/deployment](https://rohit3113.github.io/quiz-app/)
 
+
+### `play video  demo`
+see Demo video Quiz App : [youTube](#Home)
